@@ -1,0 +1,20 @@
+{
+  "12345": {
+    "medijumi": [
+      {"nosaukums": "alnis", "datums": "10.01.2025"},
+      {"nosaukums": "mežacūka", "datums": "12.04.2025"}
+    ]
+  },
+  "67890": {
+    "medijumi": [
+      {"nosaukums": "staltbriedis", "datums": "15.02.2025"},
+      {"nosaukums": "bebrs", "datums": "20.03.2025"}
+    ]
+  },
+  "54321": {
+    "medijumi": [
+      {"nosaukums": "vilks", "datums": "05.03.2025"},
+      {"nosaukums": "zaķis", "datums": "28.02.2025"}
+    ]
+  }
+}
